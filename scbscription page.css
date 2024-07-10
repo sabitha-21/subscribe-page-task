@@ -1,0 +1,21 @@
+.one{
+    border: 1px solid black;
+    margin: 20px 200px 200px 200px;
+    padding: 20px 20px;
+}
+.two{
+    border: 1px solid black;
+    margin:20px 20px;
+    padding:20px 20px 20px 20px;
+    background-color: rgb(181, 178, 178);
+}
+.two button{
+    width: 950px;
+    background-color:green;
+    
+}
+.three input{
+    width: 1000px;
+    padding-left: 20px;
+    margin-left: 20px;
+}
